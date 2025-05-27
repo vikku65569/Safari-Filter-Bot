@@ -1,4 +1,4 @@
-# This code has been modified by @Safaridev
+# This code has been modified by @wrrohit02
 # Please do not remove this credit
 import logging
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid, ChatAdminRequired, MessageIdInvalid, EmoticonInvalid, ReactionInvalid
